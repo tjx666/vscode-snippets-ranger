@@ -22,8 +22,9 @@ The following commands can be run from the Command Palette (`Ctrl+Shift+P`):
 
 ## Features Under Consideration
 
-1. Filter out languages that have only 'Region Start' and 'Region End' snippets.
 1. Add button to open the source file for the snippets.
+1. Add "create new snippet" command which enables quickly adding a new snippet. It copies the selected text, opens the snippet file for that language, inserts a snippet using the text on the clipboard as the *body*, and allows editing of the other fields.
+1. Filter out languages that have only 'Region Start' and 'Region End' snippets.
 1. Show the shortcuts assigned to any snippets (via command 'insert snippet').
 
 ## Installation
